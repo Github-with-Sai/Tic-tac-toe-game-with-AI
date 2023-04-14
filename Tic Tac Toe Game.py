@@ -1480,7 +1480,6 @@ while True:
                 pygame.quit()
                 break
             
-
 """
 for a in range(0,1000,50):
     pygame.draw.line(screen,red,(a,0),(a,650),1)
@@ -1488,10 +1487,3 @@ for a in range(0,650,50):
     pygame.draw.line(screen,red,(0,a),(1000,a),1)
 pygame.display.update()       
 """
-
-
-
-
-
-
-
